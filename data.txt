@@ -1,0 +1,7 @@
+
+ 2022-03-02|09:07|London|20 celcius|sangat menyenangkan dan seru
+ 2022-03-03|09:50|paris|49|wow
+ 2022-03-04|00:49|amrik|33|ameing
+ 2022-03-05|00:52|mesir|22|hot nih
+ 2022-03-09|09:54|moscow|23|secret
+ 2022-03-19|01:56|jakarat|38|macet...
